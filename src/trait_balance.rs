@@ -13,7 +13,7 @@
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with this program. If not, see https://github.com/TamrielNetwork/traits/blob/main/LICENSE
+ * along with this program. If not, see https://github.com/LeoMeinel/traits/blob/main/LICENSE
  */
 
 use crate::trait_balance::struct_pair::Pair;
